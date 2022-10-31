@@ -1,0 +1,45 @@
+body{
+	background-image: url(https://kartinkin.net/pics/uploads/posts/2022-08/1661207981_1-kartinkin-net-p-izobrazhenie-dlya-fona-saita-krasivo-1.jpg);
+background-size: cover;
+fron-familly: 'Times New Roman', Times, serif;
+fron-size: 18px;
+marin: 0;
+}
+
+header{
+	background-color: #DCDCDC;
+}
+
+ul{
+	list-style:none;
+	marin:0;
+	padding:20px;
+
+}
+
+a{
+	font-size:40px;
+	padding:20px;
+	color:#293133;
+	text-decoration:none;
+}
+
+a:hover{
+	color:#E0FFFF;
+	text-decoration:none;
+}
+
+li{
+	display:inline;
+}
+ h1{
+	 justify-content: center;
+	 color: rgb(221,221,221);
+	 font-size: 40px;
+ }
+
+
+
+
+
+ 
