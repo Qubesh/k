@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset = "UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Меню сайту</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="header">
+<header align = "center">
+<ul>
+<li><a href="#">Головна</a></li>
+<li><a>|</a></li>
+<li><a href="#">Ціна</a></li>
+<li><a>|</a></li>
+<li><a href="#">Зрівняння</a></li>
+<li><a>|</a></li>
+<li><a href="#">Про нас</a></li>
+</ul>
+</div>
+</header>
+<h1>
+<center>
+<p>Магазин техніки</p>
+</center>
+</h1>
+<div class="1block">
+
+</div>
+
+<div class="2block">
+
+</div>
+<div class="3block">
+
+</div>
+<div class="4block">
+
+</div>
+<div class="5block">
+
+</div>
+</body>
+</html> 
+ 
